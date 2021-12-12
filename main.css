@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    max-width: 80%;
+    margin: 2% 10% 3% 10%;
+    background-color: lavender;
+
+}
+h2{
+    font-family: monospace;
+    font-size: 28px;
+    color: rgb(172, 154, 154);
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+   color: rgb(156, 148, 148);
+}
+.box{
+   margin-top: 2em;
+}
